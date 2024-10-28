@@ -217,3 +217,12 @@ msgstr "Échec du changement de famille de l'assuré"
 
 msgid "insuree.validation.policy_above_max_members"
 msgstr "La police %(product_code)s - %(start_date)s couvre maximum %(max)s assurés. Nombre actuel de membres de la famille: %(count)s"
+
+msgid "family.validation.assign_self"
+msgstr "Impossible d'assigner la famille %(id) à elle-même"
+
+msgid "family.validation.not_exist"
+msgstr "La famille %(id) n'existe pas"
+
+msgid "config.no_chfid"
+msgstr "Aucun CHFID fourni, pourtant la configuration n'est pas active."
