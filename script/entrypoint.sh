@@ -10,7 +10,7 @@ pip install -r modules-requirements.txt
 #pip install -e /openimis-be-calculation_comores_py
 #pip install -e /openimis-be-report-comores_py
 #pip install -e /openimis-be-core_py
-pip install -e /openimis-be-location_py
+#pip install -e /openimis-be-location_py
 cp script/reportbro.py /usr/local/lib/python3.10/site-packages/reportbro/
 cd /openimis-be/openIMIS/
 
